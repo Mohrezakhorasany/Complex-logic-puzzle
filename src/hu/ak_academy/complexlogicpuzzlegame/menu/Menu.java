@@ -56,7 +56,7 @@ public class Menu {
 		stringBuilder.append("You need to choose the inversion mask type first, after that The program will give you an option to choose how to handle the overflow.");
 		stringBuilder.append("\n");
 		stringBuilder.append("\n");
-		stringBuilder.append("And by giving the row and the column, neighbouring cells will change their state according to mask type. ");
+		stringBuilder.append("And by giving the row and the column, neighboring cells will change their state according to mask type. ");
 		stringBuilder.append("\n");
 		stringBuilder.append("\n");
 		stringBuilder.append("The game will finish either by turning all the cells state to positive which is winning criteria or by entering 0 for both row and the column, which indicates you would like to quit the game..");
